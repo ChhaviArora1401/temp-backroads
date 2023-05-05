@@ -1,5 +1,4 @@
 import React from 'react'
-import { services } from '../data'
 
 const Service = (props) => {
     return (
